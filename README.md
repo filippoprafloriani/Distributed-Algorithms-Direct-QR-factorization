@@ -1,3 +1,3 @@
 MAPD-B distributed processing projects. Check 1. Distributed Algorithms 1.2.3 Dimensionality reduction
 
-Jupyter notebook with the code. The code is based on 4-threads and runs on a cluster of virtual machines (VM).
+Jupyter notebook in Dask (Python library) with the code. The code is based on 4-threads and runs on a cluster of virtual machines (VM).
